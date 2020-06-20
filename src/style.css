@@ -1,0 +1,30 @@
+body{
+    background-color:whitesmoke
+
+}
+textarea{
+    height:350px;
+    width:350px;
+    background-color: maroon;
+    color:yellow
+}
+.navbar{
+    background-color:green;
+    margin-top: 10px;
+}
+#link1{
+    color:yellowgreen;
+}
+#link2{
+    color:yellowgreen;
+    margin-left: 10px;
+}
+.image-grid {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.image-container {
+    position: relative;
+}
